@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eCom2</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product price</string>
+    <string name="add_product">Add product</string>
+    <string name="bye_your_desire">Bye your desire</string>
+    <string name="register_now">Register Now</string>
+    <string name="product_name">Product Name</string>
+    <string name="user_name">User Name</string>
+    <string name="phon_number">Phon Number</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">Login</string>
+    <string name="as_admin">As Admin?</string>
+    <string name="not_an_admin">Not an Admin?</string>
+    <string name="log_out">log out</string>
+    <string name="add_new_products">Add new Products</string>
+</resources>
